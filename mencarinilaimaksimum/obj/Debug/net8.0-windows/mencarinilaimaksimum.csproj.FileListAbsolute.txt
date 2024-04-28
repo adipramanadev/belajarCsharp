@@ -1,0 +1,17 @@
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\bin\Debug\net8.0-windows\mencarinilaimaksimum.exe
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\bin\Debug\net8.0-windows\mencarinilaimaksimum.deps.json
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\bin\Debug\net8.0-windows\mencarinilaimaksimum.runtimeconfig.json
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\bin\Debug\net8.0-windows\mencarinilaimaksimum.dll
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\bin\Debug\net8.0-windows\mencarinilaimaksimum.pdb
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.Form1.resources
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.csproj.GenerateResource.cache
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.GeneratedMSBuildEditorConfig.editorconfig
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.AssemblyInfoInputs.cache
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.AssemblyInfo.cs
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.csproj.CoreCompileInputs.cache
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.sourcelink.json
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.dll
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\refint\mencarinilaimaksimum.dll
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.pdb
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\mencarinilaimaksimum.genruntimeconfig.cache
+D:\BElajarVB6\belajarVB6\mencarinilaimaksimum\obj\Debug\net8.0-windows\ref\mencarinilaimaksimum.dll
