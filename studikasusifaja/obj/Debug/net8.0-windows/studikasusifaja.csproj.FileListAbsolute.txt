@@ -1,0 +1,17 @@
+D:\BElajarVB6\belajarVB6\studikasusifaja\bin\Debug\net8.0-windows\studikasusifaja.exe
+D:\BElajarVB6\belajarVB6\studikasusifaja\bin\Debug\net8.0-windows\studikasusifaja.deps.json
+D:\BElajarVB6\belajarVB6\studikasusifaja\bin\Debug\net8.0-windows\studikasusifaja.runtimeconfig.json
+D:\BElajarVB6\belajarVB6\studikasusifaja\bin\Debug\net8.0-windows\studikasusifaja.dll
+D:\BElajarVB6\belajarVB6\studikasusifaja\bin\Debug\net8.0-windows\studikasusifaja.pdb
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.Form1.resources
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.csproj.GenerateResource.cache
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.GeneratedMSBuildEditorConfig.editorconfig
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.AssemblyInfoInputs.cache
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.AssemblyInfo.cs
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.csproj.CoreCompileInputs.cache
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.sourcelink.json
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.dll
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\refint\studikasusifaja.dll
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.pdb
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\studikasusifaja.genruntimeconfig.cache
+D:\BElajarVB6\belajarVB6\studikasusifaja\obj\Debug\net8.0-windows\ref\studikasusifaja.dll
